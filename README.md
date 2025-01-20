@@ -1,1 +1,1 @@
-# project-1
+# SEPHORA Website Clone
